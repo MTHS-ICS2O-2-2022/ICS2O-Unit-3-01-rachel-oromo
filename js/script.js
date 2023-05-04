@@ -1,6 +1,6 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2020 Rachel Oromo All rights reserved
 //
-// Created by: Mr. Coxall
+// Created by: Rachel Oromo
 // Created on: Sep 2020
 // This file contains the JS functions for index.html
 
